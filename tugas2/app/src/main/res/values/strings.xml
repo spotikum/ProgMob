@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tugas2</string>
+    <string name="_0">0</string>
+    <string name="judul_aktivitas">Judul Aktivitas</string>
+    <string name="a">+</string>
+    <string name="reset">Reset</string>
+    <string name="b">-</string>
+</resources>
