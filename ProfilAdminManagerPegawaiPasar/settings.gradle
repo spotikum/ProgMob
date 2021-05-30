@@ -1,0 +1,2 @@
+rootProject.name = "ProfilAdminManagerPegawaiPasar"
+include ':app'
